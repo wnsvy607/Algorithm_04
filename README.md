@@ -9,7 +9,8 @@ MODEL1
 
 MODEL2
 
-
+![download](https://user-images.githubusercontent.com/85255237/173248885-52d9768a-a782-42e8-aa33-c69a3e1eb377.png)
+![download](https://user-images.githubusercontent.com/85255237/173248889-bfe418e5-0cb0-4de0-8ace-674e214ea4b6.png)
 
 
 
