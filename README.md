@@ -1,20 +1,26 @@
 # DLpractice-Algorithm
-MODEL1
+## 1. MODEL 1 : 3 Layers with 1 Convolution layer
+![image](https://user-images.githubusercontent.com/85255237/173598304-12c48c17-57e9-42d8-9093-5cb194571aea.png)
+![image](https://user-images.githubusercontent.com/85255237/173599515-dcd2436e-491d-4cb2-b084-31a5ade5d34e.png)
 
+## 2. Training with Training loss
+![image](https://user-images.githubusercontent.com/85255237/173598552-3386b3e3-139d-46bf-b270-f1e815f6cb07.png)
 
-![download](https://user-images.githubusercontent.com/85255237/173248716-e00e30b9-13bb-4ef4-88de-7c37f3cb55c3.png)
-![download](https://user-images.githubusercontent.com/85255237/173248721-5deb179c-8bd4-4383-881e-05e4b425cf08.png)
+## 3. Test Accuracy
+![image](https://user-images.githubusercontent.com/85255237/173599171-2f12940a-eb43-438f-a214-8ebc0e8cf987.png)
+
+## 4. Images and corresponding probability that predicted Right
+![download](https://user-images.githubusercontent.com/85255237/173599581-4f85cc05-e713-46c9-aeaf-39b5cbfa64f1.png)
+
+## 5. Images and corresponding probability that predicted Wrong
+![download](https://user-images.githubusercontent.com/85255237/173599599-03a6067c-51a8-4aa7-bbad-1318a636316e.png)
 
 
 
 MODEL2
 
-![download](https://user-images.githubusercontent.com/85255237/173248885-52d9768a-a782-42e8-aa33-c69a3e1eb377.png)
-![download](https://user-images.githubusercontent.com/85255237/173248889-bfe418e5-0cb0-4de0-8ace-674e214ea4b6.png)
 
 
 
 MODEL3
 
-![download](https://user-images.githubusercontent.com/85255237/173249087-ef2af4d3-591a-48b4-92a6-7e7e55bda7bb.png)
-![download](https://user-images.githubusercontent.com/85255237/173249090-bb4361af-8112-4668-abdf-6f163ce9abc8.png)
