@@ -17,10 +17,43 @@
 
 
 
-MODEL2
+
+
+## 1. MODEL 2 : 5 Layers with 2 Convolution layer
+![image](https://user-images.githubusercontent.com/85255237/173600832-bbfa8d02-0575-4218-8d6a-c78d865e859c.png)
+![image](https://user-images.githubusercontent.com/85255237/173600852-912e248b-201c-4534-9cf9-42c529994ac3.png)
+
+
+## 2. Training with Training loss
+![image](https://user-images.githubusercontent.com/85255237/173600922-9331b743-3746-4bec-9ed5-f8f34b9973cc.png)
+
+
+## 3. Test Accuracy
+![image](https://user-images.githubusercontent.com/85255237/173601010-353237f9-2533-41ff-ab3c-deb5a4ebe1c7.png)
+
+
+## 4. Images and corresponding probability that predicted Right
+![download](https://user-images.githubusercontent.com/85255237/173601086-072504cc-2b42-45b8-b76b-a4a5438fbcf7.png)
+
+
+## 5. Images and corresponding probability that predicted Wrong
+![download](https://user-images.githubusercontent.com/85255237/173601106-1925d456-7104-47fb-a835-56e064a0460d.png)
 
 
 
 
-MODEL3
+
+## 1. MODEL 3 : 7 Layers with 4 Convolution layer
+
+
+## 2. Training with Training loss
+
+
+## 3. Test Accuracy
+
+
+## 4. Images and corresponding probability that predicted Right
+
+
+## 5. Images and corresponding probability that predicted Wrong
 
